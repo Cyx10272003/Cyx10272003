@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Cyx10272003/Cyx10272003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chua Yu Xiang and I'm a network security fresh Graduate from Sunway University Malaysia
 
-Here are some ideas to get you started:
+I love to do research and build systems related to network security and other AI/web development related projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I used for my projects are Kali Linux & Ubuntu , Python, Java, C++, HTML5, CSS3 , MathLab , Packet tracer and VSCODE
+
+Fun facts:
+
+- I like both coffee and tea
+- My hobbies are reading , gaming and watching anime
+- Favourite food is fish 
+  
